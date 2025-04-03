@@ -1,0 +1,12 @@
+**/pytest_cache
+**/__pycache__/**
+**/.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/.DS_Store
+**/**.env
+**.env
+**config_**.json**
+artifacts
+*.sh
+env.json
+experiment_folder/data/*
